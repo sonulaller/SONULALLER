@@ -32,10 +32,10 @@
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| **NLSP School Website** | Complete school website with frontend, backend, admissions, AI chatbot and a full SEO pass | TypeScript, HTML, CSS, JavaScript, SEO, AI Chatbot | [Code](https://github.com/sonulaller/NLSPSCHOOL) |
+| **NLSP School Website** | Complete school website with frontend, backend, admissions, AI chatbot and a full SEO pass | TypeScript, HTML, CSS, JavaScript, SEO, AI Chatbot | [Open Website](https://sonulaller.github.io/NLSPSCHOOL/) |
 | **Chatbot** | AI chatbot project | AI Chatbot | [Code](https://github.com/sonulaller/Chatbot) |
-| **Screw Nuts** | Browser puzzle game where you unscrew the nuts and clear the board. Playable online | Web, Game Development, Puzzle | [Code](https://github.com/sonulaller/screw-nuts) |
-| **Personal Portfolio + Admin Panel** | My portfolio website with an admin panel to manage projects, images, qualifications, capabilities, vision and password | HTML, CSS, JavaScript, SQL, Vercel | [Live Site](https://sonu-portfolio-server.vercel.app/) / [Code](https://github.com/sonulaller/sonu-portfolio) |
+| **Screw Nuts** | Browser puzzle game where you unscrew the nuts and clear the board. Playable online | Web, Game Development, Puzzle | [Play Game](https://remix-screw-nuts-mechanical-puzzles-1638.ai.studio) |
+| **Personal Portfolio + Admin Panel** | My portfolio website with an admin panel to manage projects, images, qualifications, capabilities, vision and password | HTML, CSS, JavaScript, SQL, Vercel | [Open Website](https://sonu-portfolio-server.vercel.app/) |
 
 See all my projects on my portfolio: **[sonu-portfolio-server.vercel.app](https://sonu-portfolio-server.vercel.app/)**
 
